@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "game_ai_suite"
+version = "0.1.0"
+description = "AI modules for gaming: real-time agent, gestures, emotion, AR 3D, RL NPC"
+authors = [{name = "Cursor AI"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
